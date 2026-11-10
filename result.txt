@@ -1,0 +1,53 @@
+Data Size : 1000
+
+Algorithm        Comparisons    Time(ms)    Memory(Bytes)
+---------------------------------------------------------
+Merge Sort       8711           0.093300    4440
+Quick (First)    10991          0.097400    960
+Quick (Random)   11738          0.114500    1008
+Quick (Median3)  10858          0.083800    768
+
+Data Size : 2000
+
+Algorithm        Comparisons    Time(ms)    Memory(Bytes)
+---------------------------------------------------------
+Merge Sort       19439          0.207200    8480
+Quick (First)    24533          0.224200    1056
+Quick (Random)   23877          0.312300    1200
+Quick (Median3)  23801          0.303800    816
+
+Data Size : 4000
+
+Algorithm        Comparisons    Time(ms)    Memory(Bytes)
+---------------------------------------------------------
+Merge Sort       42827          0.466900    16520
+Quick (First)    56990          0.419000    1296
+Quick (Random)   59058          0.534500    1296
+Quick (Median3)  54567          0.398000    1056
+
+Data Size : 8000
+
+Algorithm        Comparisons    Time(ms)    Memory(Bytes)
+---------------------------------------------------------
+Merge Sort       93608          1.209200    32560
+Quick (First)    119538         1.557000    1392
+Quick (Random)   117677         1.802400    1392
+Quick (Median3)  116406         1.505300    1152
+
+Data Size : 16000
+
+Algorithm        Comparisons    Time(ms)    Memory(Bytes)
+---------------------------------------------------------
+Merge Sort       203354         2.734400    64600
+Quick (First)    273077         2.529300    1584
+Quick (Random)   263579         2.278700    1488
+Quick (Median3)  247300         1.824900    1104
+
+Data Size : 20000
+
+Algorithm        Comparisons    Time(ms)    Memory(Bytes)
+---------------------------------------------------------
+Merge Sort       260913         2.211000    80640
+Quick (First)    323056         2.303300    1488
+Quick (Random)   339287         2.587500    1632
+Quick (Median3)  320841         2.411300    1152
